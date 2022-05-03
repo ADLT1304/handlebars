@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.5"
+  },
+  "name": "handlebars",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ADLT1304/handlebars.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ADLT1304/handlebars/issues"
+  },
+  "homepage": "https://github.com/ADLT1304/handlebars#readme",
+  "description": ""
+}
